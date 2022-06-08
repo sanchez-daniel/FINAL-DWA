@@ -1,0 +1,35 @@
+.Principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Titulo{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #29323d;
+    font-size:50px;
+}
+.Parrafo{
+    color: #878d94;
+    font-size: 15px;
+    margin-top: 0;
+}
+.Imagen2{
+    width: 500px;
+}
+.Boton1{
+    color: white;
+    background-color: #29323d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: transparent;
+    border-radius: 2px;
+    height: 50px;
+    width: 120px;
+    margin-top: 30px;
+}
+.Seccion1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
